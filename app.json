@@ -27,6 +27,12 @@
     },
     "experiments": {
       "baseUrl": "/web-cloud-ynov"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fed544a2-be85-437c-ae31-987927e538ff"
+      }
+    },
+    "owner": "christophee"
   }
 }
