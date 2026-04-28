@@ -1,0 +1,21 @@
+
+> web-cloud-ynov@1.0.0 web:offline
+> expo start --web --offline --port 8081
+
+Networking has been disabled
+Starting project at C:\Users\Chris\Desktop\Ia\jj\web-cloud-ynov
+Starting Metro Bundler
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.0% (201/202)
+Web Bundled 6602ms index.js (206 modules)
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 29ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 20ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 26ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
