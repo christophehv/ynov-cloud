@@ -12,6 +12,7 @@
     "deploy": "gh-pages -t -d dist"
   },
   "dependencies": {
+    "@expo/metro-config": "~54.0.14",
     "@expo/metro-runtime": "~6.1.2",
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
