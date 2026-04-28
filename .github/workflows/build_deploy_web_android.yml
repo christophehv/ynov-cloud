@@ -8,6 +8,7 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  EAS_BUILD_NO_EXPO_GO_WARNING: true
 
 jobs:
   build:
