@@ -23,7 +23,10 @@
       },
       "edgeToEdgeEnabled": true
     },
+    "scheme": "web-cloud-ynov",
     "web": {
+      "bundler": "metro",
+      "output": "static",
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
@@ -34,6 +37,9 @@
         "projectId": "fed544a2-be85-437c-ae31-987927e538ff"
       }
     },
-    "owner": "christophee"
+    "owner": "christophee",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
