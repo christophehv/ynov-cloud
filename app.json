@@ -30,7 +30,7 @@
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
-      "baseUrl": "/web-cloud-ynov"
+      "baseUrl": "/ynov-cloud"
     },
     "extra": {
       "eas": {
